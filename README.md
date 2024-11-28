@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guerrier-git
-- 👀 I’m interested in learning more on DevOps tools like Git,Ansible,terraform,Dockers and Kubernets
-- 🌱 I’m currently learning Git at the moment
+- 👀 I used  DevOps automation tools like Git,Ansible,terraform,Dockers and Kubernets for my projects
+- 🌱I'm Fun And Eager to learn
 - 💞️ I’m looking to collaborate on multiples DevOps projects
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
