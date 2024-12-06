@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samy Guerrier</h1>
 <h3 align="center">A passionate Cloud Engineer</h3>
 
-- 🌱 I’m currently learning **Advance Python, Kubernetes**
+- 🌱 I’m currently learning **Advanced Python, Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/samy-guerrier-15388b1b3/](https://www.linkedin.com/in/samy-guerrier-15388b1b3/)
 
@@ -11,6 +11,23 @@
 
 - ⚡ Fun fact **Army strong, Veteran life**
 
+---
+
+## 🏅 Certifications:
+- **AWS SAP**
+- **linux** (CompTIA Linux+)
+- **CASP** (CompTIA Advanced Security Practitioner)
+- **Network** (CompTIA network+)
+- **SEC+** (CompTIA Security+)
+
+---
+
+## ⚡ Fun Fact:
+**Army Strong** – Proud veteran living the best of both worlds! 💪
+
+---
+
+Let's collaborate and build something amazing together! 🚀
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
